@@ -21,7 +21,7 @@
     
     python repo_analyzer.py https://github.com/paeb37/ui-design.git
 
-2. Open the cloned repo in Cursor, and run Agent mode with the produced "instructions.md" file
+2. Open the cloned repo in Cursor, and run Agent mode with the produced "instructions.md" file. You can just say "Follow these instructions"
 
     Full analysis report will be saved to the "report.md" file
     
