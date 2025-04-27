@@ -1,3 +1,5 @@
 *.json
 !package.json
 !package-lock.json
+analysis_output/*/
+venv/
